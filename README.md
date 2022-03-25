@@ -40,7 +40,7 @@ https://devgrid-weather-zpb7lfxm3a-uc.a.run.app/temperature?max=1
   
 Clone the repository, then run on Docker
   
-  1.  docker build --tag <nome-da-imagem> .
-  2.  docker run -dp 5000:80 <nome-da-imagem>
+  1.  docker build --tag \<nome-da-imagem> .
+  2.  docker run -dp 5000:80 \<nome-da-imagem>
   
 The variables in the .env file are cache_tll, default_max_number and also API_Key.
