@@ -1,6 +1,6 @@
 # Objective
 
-The objective of this teest is to collect data from Open Weather API, store it as JSON file and also implement a cache service.
+The objective of this test is to collect data from Open Weather API, store it as JSON file and also implement a cache service.
 
 The application is currently running in a GCP Cloud Run service:
 
